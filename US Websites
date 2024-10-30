@@ -1,11 +1,11 @@
-HOST-SUFFIX,meta.ai,Automatically - US
-HOST-SUFFIX,gateway.icloud.com,Automatically - US
-HOST-SUFFIX,gateway.icloud.com.cn,Automatically - US
-HOST-SUFFIX,ls.apple.com,Automatically - US
-HOST-SUFFIX,news-events.apple.com,Automatically - US
-HOST-SUFFIX,newsletter-edge.apple.com,Automatically - US
-HOST-SUFFIX,gsa.apple.com,Automatically - US
-HOST-SUFFIX,gsas.apple.com,Automatically - US
-HOST-SUFFIX,news-edge.apple.com,Automatically - US
-HOST-SUFFIX,news.iadsdk.apple.com,Automatically - US
-HOST-SUFFIX,c.apple.news,Automatically - US
+HOST-SUFFIX,meta.ai,proxy
+HOST-SUFFIX,gateway.icloud.com,proxy
+HOST-SUFFIX,gateway.icloud.com.cn,proxy
+HOST-SUFFIX,ls.apple.com,proxy
+HOST-SUFFIX,news-events.apple.com,proxy
+HOST-SUFFIX,newsletter-edge.apple.com,proxy
+HOST-SUFFIX,gsa.apple.com,proxy
+HOST-SUFFIX,gsas.apple.com,proxy
+HOST-SUFFIX,news-edge.apple.com,proxy
+HOST-SUFFIX,news.iadsdk.apple.com,proxy
+HOST-SUFFIX,c.apple.news,proxy
