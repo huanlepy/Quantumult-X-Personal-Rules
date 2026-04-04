@@ -1,0 +1,7 @@
+# Apple Intelligence / Siri / Private Cloud Compute → 走代理
+DOMAIN, guzzoni.apple.com, PROXY
+DOMAIN-SUFFIX, smoot.apple.com, PROXY
+DOMAIN, apple-relay.cloudflare.com, PROXY
+DOMAIN, apple-relay.fastly-edge.com, PROXY
+DOMAIN, cp4.cloudflare.com, PROXY
+DOMAIN, apple-relay.apple.com, PROXY
