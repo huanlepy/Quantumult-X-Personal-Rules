@@ -1,5 +1,5 @@
 # Apple Intelligence / Siri / Private Cloud Compute → 走代理
-HOST-SUFFIX, guzzoni.apple.com
+HOST-SUFFIX, guzzoni.apple.com，proxy
 HOST-SUFFIX, smoot.apple.com
 HOST-SUFFIX, apple-relay.cloudflare.com
 HOST-SUFFIX, apple-relay.fastly-edge.com
