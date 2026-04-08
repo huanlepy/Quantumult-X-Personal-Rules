@@ -1,16 +1,20 @@
 # Apple Intelligence / Siri / Private Cloud Compute → 走代理
-DOMAIN, guzzoni.apple.com
+DOMAIN-SUFFIX, guzzoni.apple.com
 DOMAIN-SUFFIX, smoot.apple.com
-DOMAIN, apple-relay.cloudflare.com
-DOMAIN, apple-relay.fastly-edge.com
-DOMAIN, cp4.cloudflare.com
-DOMAIN, apple-relay.apple.com
-DOMAIN, gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX, apple-relay.cloudflare.com
+DOMAIN-SUFFIX, apple-relay.fastly-edge.com
+DOMAIN-SUFFIX, cp4.cloudflare.com
+DOMAIN-SUFFIX, apple-relay.apple.com
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX, apple-relay.akamaized.net
+DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net
 
-HOST, guzzoni.apple.com
+HOST-SUFFIX, guzzoni.apple.com
 HOST-SUFFIX, smoot.apple.com
-HOST, apple-relay.cloudflare.com
-HOST, apple-relay.fastly-edge.com
-HOST, cp4.cloudflare.com
-HOST, apple-relay.apple.com
-HOST, gspe1-ssl.ls.apple.com
+HOST-SUFFIX, apple-relay.cloudflare.com
+HOST-SUFFIX, apple-relay.fastly-edge.com
+HOST-SUFFIX, cp4.cloudflare.com
+HOST-SUFFIX, apple-relay.apple.com
+HOST-SUFFIX, gspe1-ssl.ls.apple.com
+HOST-SUFFIX, apple-relay.akamaized.net
+HOST-SUFFIX, apple-relay.mask.apple-dns.net
